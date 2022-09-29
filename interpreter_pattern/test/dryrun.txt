@@ -1,0 +1,15 @@
+havelhs = fasle
+result = blank
+
+'(' first token i=0
+    j = 0
+    j = 0 to )
+    j = 4
+    k =1 to 3 tak subexpression bana
+    subexp = 13+13
+    recursive call
+        havelhs = false
+        result =  blank
+        13 for i =0
+            case int -> result
+
